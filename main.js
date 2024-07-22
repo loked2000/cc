@@ -1,0 +1,1 @@
+Game.Loader.Replace('wrinkler.png','https://cdn.discordapp.com/attachments/661979678751457281/1264774022126899280/blaaHaj.png?ex=669f1819&is=669dc699&hm=e8700127bfa3fec3efb54acb4dd2c25e8dcb56bbda15a134f0121af85c080878&');
